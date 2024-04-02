@@ -1,2 +1,8 @@
-# Minpro-EDM-Group-19
-Tema : How data may decrease stuntings in Indonesia
+# Mini Project EDM Group 19
+Team Members :
+1. 
+2.
+3.
+4.
+
+Theme : How data may decrease stuntings in Indonesia
